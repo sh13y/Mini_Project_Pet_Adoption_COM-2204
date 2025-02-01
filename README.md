@@ -181,5 +181,4 @@ pet-adoption.zip
 
 ---
 Created for Web Development Lab Assignment
-```
 
