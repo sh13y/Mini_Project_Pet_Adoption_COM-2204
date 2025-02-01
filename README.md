@@ -72,7 +72,7 @@ chmod 777 uploads
 ## Project Files 📁
 
 ```
-pet-adoption/
+Mini_Project_Pet_Adoption_COM-2204/
 ├── index.html          # Pet submission form
 ├── style.css          # CSS styles
 ├── insert_pet.php     # Form processing
@@ -150,7 +150,7 @@ if (!is_writable('uploads/')) {
 
 1. Zip your project files:
 ```
-pet-adoption.zip
+Mini_Project_Pet_Adoption.zip
 ├── index.html
 ├── style.css
 ├── insert_pet.php
