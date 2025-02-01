@@ -73,7 +73,7 @@ chmod 777 uploads
 
 ```
 Mini_Project_Pet_Adoption_COM-2204/
-├── index.html          # Pet submission form
+├── index.html         # Pet submission form
 ├── style.css          # CSS styles
 ├── insert_pet.php     # Form processing
 ├── view_pets.php      # Pet listing page
